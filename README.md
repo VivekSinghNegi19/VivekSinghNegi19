@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh Negi</h1>
 <h3 align="center">Data Analyst & ML Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksinghnegi19&label=Profile%20views&color=0e75b6&style=flat" alt="viveksinghnegi19" /> </p>
-
 - 🔭 I’m currently working on **A/B Testing**
 
 - 🌱 I’m currently learning **Data Science**
